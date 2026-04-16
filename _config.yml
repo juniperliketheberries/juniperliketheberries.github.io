@@ -1,4 +1,6 @@
-theme: jekyll-theme-dark-minimal
+plugins:
+  - jekyll-remote-theme
+remote-theme: jekyll-theme-dark-minimal
 title: Juniper Inglis
 description: Technologist. Tinkerer. Teacher.
 email: juniperliketheberries@gmail.com

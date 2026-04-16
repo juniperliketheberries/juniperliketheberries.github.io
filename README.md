@@ -12,6 +12,7 @@ While the code is closed source, the updated project is live at [qtmag.ca](https
 
 ![QT Magazine Homepage](res/qtmag_home.png)
 
+### Textile Magazine
 
 ## Music Production & Publication
 

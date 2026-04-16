@@ -1,7 +1,4 @@
-# Juniper Inglis
-
-##### Technologist. Tinkerer. Teacher.
-    
+# Portfolio
 
 ## Software Development
 
